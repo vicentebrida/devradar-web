@@ -1,5 +1,0 @@
-Componente: Bloco isolado de HTML, CSS e JS, o qual não interfere no restante da aplicação.
-Propriedade: Informações que um componente PAI passa para o componente FILHO.
-Estado: Informações mantidas pelo componente (Lembrar: imutabilidade).
-
-Estudar sobre contexto api que é a transição de dados entre componentes pai e filho, para não precisar ficar utilizando tudo via propriedades no caso a onSubmit. 
